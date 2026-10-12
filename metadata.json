@@ -1,0 +1,6 @@
+{
+  "name": "ResumePilot AI",
+  "description": "Build Better Resumes. Get Hired Faster. AI-Powered ATS Resume Builder, Compatibility Analyzer & Job Matcher SaaS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
